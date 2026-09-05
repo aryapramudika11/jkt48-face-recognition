@@ -133,7 +133,7 @@ final_script.ipynb
 
 5. **(Optional) Skip training — use the pretrained model**
    Training all architectures from scratch (especially the deep learning models) can be heavy on time and compute. If you just want to try inference without retraining, a ready-to-use trained model (weights + PCA + SVM pipeline) is provided here:
-   👉 [Download pretrained model](<google-drive-model-link>) (All Model and result)
+   👉 [Download pretrained model](<https://drive.google.com/drive/folders/1wkp--DP9JbppX1-M3GhkRkejwjEH9_iQ?usp=sharing>) (All Model and result)
 
    Place the downloaded files in a `models/` folder, then run only the **Inference / Best Model Testing** section of the notebook (skip the training cells) to load the model directly and run predictions.
 
