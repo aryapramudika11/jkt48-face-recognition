@@ -109,7 +109,7 @@ final_script.ipynb
 
 2. **Download the dataset**
    The face image dataset (8,000 images of 40 JKT48 members) is hosted on Google Drive since it's too large for this repo:
-   👉 [Download dataset from Google Drive](<https://drive.google.com/drive/folders/1PFloib06l4GZ-oMIOJtiuDgnPHMjWdGT?usp=sharing>)
+   👉 [Download dataset from Google Drive](<https://drive.google.com/drive/folders/1PFloib06l4GZ-oMIOJtiuDgnPHMjWdGT?usp=sharing>) (Size 3GB)
 
    Extract it locally, e.g. into a `data/` folder in the project root.
 
